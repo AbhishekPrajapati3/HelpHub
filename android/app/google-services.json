@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "774376187889",
+    "project_id": "helphub-99b15",
+    "storage_bucket": "helphub-99b15.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:774376187889:android:9a50ae51c1bcc0f2d40650",
+        "android_client_info": {
+          "package_name": "com.OurCodingCafe.help_hub"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBZIdDD_ARUiqU8SRXHOlL5l_htIumDt1Y"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

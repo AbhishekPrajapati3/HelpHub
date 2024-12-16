@@ -41,46 +41,46 @@ class DefaultFirebaseOptions {
   }
 
   static const FirebaseOptions web = FirebaseOptions(
-    apiKey: 'AIzaSyCeWCNkFuqXje9T-XXaOZ987w27p8wCLew',
+    apiKey: '',
     appId: '1:774376187889:web:303d4da5ac1a92f6d40650',
     messagingSenderId: '774376187889',
-    projectId: 'helphub-99b15',
+    projectId: '',
     authDomain: 'helphub-99b15.firebaseapp.com',
     storageBucket: 'helphub-99b15.firebasestorage.app',
     measurementId: 'G-V7SXD1ZF1C',
   );
 
   static const FirebaseOptions android = FirebaseOptions(
-    apiKey: 'AIzaSyBZIdDD_ARUiqU8SRXHOlL5l_htIumDt1Y',
+    apiKey: '',
     appId: '1:774376187889:android:9a50ae51c1bcc0f2d40650',
     messagingSenderId: '774376187889',
-    projectId: 'helphub-99b15',
+    projectId: '',
     storageBucket: 'helphub-99b15.firebasestorage.app',
   );
 
   static const FirebaseOptions ios = FirebaseOptions(
-    apiKey: 'AIzaSyASJUoGjlLckMDY0zmSNrF_ZyKJQ9TzB3E',
+    apiKey: '',
     appId: '1:774376187889:ios:7965d6cf90192443d40650',
     messagingSenderId: '774376187889',
-    projectId: 'helphub-99b15',
+    projectId: '',
     storageBucket: 'helphub-99b15.firebasestorage.app',
     iosBundleId: 'com.OurCodingCafe.helpHub',
   );
 
   static const FirebaseOptions macos = FirebaseOptions(
-    apiKey: 'AIzaSyASJUoGjlLckMDY0zmSNrF_ZyKJQ9TzB3E',
+    apiKey: '',
     appId: '1:774376187889:ios:7965d6cf90192443d40650',
     messagingSenderId: '774376187889',
-    projectId: 'helphub-99b15',
+    projectId: '',
     storageBucket: 'helphub-99b15.firebasestorage.app',
     iosBundleId: 'com.OurCodingCafe.helpHub',
   );
 
   static const FirebaseOptions windows = FirebaseOptions(
-    apiKey: 'AIzaSyCeWCNkFuqXje9T-XXaOZ987w27p8wCLew',
+    apiKey: '',
     appId: '1:774376187889:web:9c5742d72d32228fd40650',
     messagingSenderId: '774376187889',
-    projectId: 'helphub-99b15',
+    projectId: '',
     authDomain: 'helphub-99b15.firebaseapp.com',
     storageBucket: 'helphub-99b15.firebasestorage.app',
     measurementId: 'G-PEKLY89P5C',

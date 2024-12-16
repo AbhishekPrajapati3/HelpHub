@@ -9,15 +9,15 @@ class Cloudinary
 
 
  static Future<void>uploadProfileImage(String filePath, String userId) async {
-    final cloudName = 'dcgmlqblo';
-    final apiKey = '384134893529286';
-    final apiSecret = '0uneZBOUxAS-qqgrXvDPbx_7y_E';
-    final uploadUrl = 'https://api.cloudinary.com/v1_1/$cloudName/image/upload';
+    final cloudName = '';
+    final apiKey = '';
+    final apiSecret = '';
+    final uploadUrl = '';
 
     final file = File(filePath);
 
     // Create a unique folder and public ID
-    final publicId = 'users/$userId/profile_image';
+    final publicId = '';
 
     // Create the request
     final request = http.MultipartRequest('POST', Uri.parse(uploadUrl))
@@ -64,7 +64,7 @@ class Cloudinary
  }
 
  static String getProfileImageUrl(String userId) {
-   final cloudName = 'dcgmlqblo'; // Replace with your Cloudinary cloud name
+   final cloudName = ''; // Replace with your Cloudinary cloud name
    return 'https://res.cloudinary.com/$cloudName/image/upload/users/$userId/profile_image';
  }
 
